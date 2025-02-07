@@ -15,8 +15,8 @@ O Portal GeHfer é uma aplicação web modular para gerenciamento de operações
 - **Relatórios**: Dashboards e métricas em tempo real
 - **Upload de Arquivos**: Gestão de anexos e evidências
 ## Próximos Passos
-- [ ] Validar disparo por emails
-- [ ] Adicionar integração com Korp
+- Validar disparo por emails
+- Adicionar integração com Korp
 ## Suporte
 Em caso de problemas:
 1. Verifique as permissões do seu usuário
