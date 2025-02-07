@@ -6,5 +6,4 @@ permalink: /license/
 
 # License
 
-{% capture license_content %}{% include LICENSE %}{% endcapture %}
-{{ license_content | markdownify }}
+{% raw %} {% include_relative LICENSE %} {% endraw %}
