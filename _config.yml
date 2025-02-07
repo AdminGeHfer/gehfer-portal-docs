@@ -1,2 +1,4 @@
 theme: jekyll-theme-primer
 title: Portal GeHfer (Documentação)
+include:
+  - LICENSE
