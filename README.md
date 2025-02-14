@@ -6,7 +6,7 @@ O Portal GeHfer é uma aplicação web modular para gerenciamento de operações
 ### Módulo de Qualidade
 - Gestão completa de RNCs (Registros de Não Conformidades)
 - Sistema de anexos e evidências
-- Workflow configurável de aprovação
+- Fluxo de notificações configurável de aprovação
 - Relatórios e métricas
 - Gestão de coletas e devoluções
 ## Funcionalidades Principais
@@ -14,8 +14,8 @@ O Portal GeHfer é uma aplicação web modular para gerenciamento de operações
 - **Gestão de RNCs**: Workflow completo de qualidade
 - **Relatórios**: Dashboards e métricas em tempo real
 - **Upload de Arquivos**: Gestão de anexos e evidências
+- **Fluxo de Notificações**: Canvas personalizado para gerenciar notificações.
 ## Próximos Passos
-- Validar disparo por emails
 - Adicionar integração com Korp
 ## Suporte
 Em caso de problemas:
